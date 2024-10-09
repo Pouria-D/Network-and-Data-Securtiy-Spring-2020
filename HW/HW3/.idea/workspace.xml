@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b214a298-6442-426c-afb6-0176d59b1685" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aePpDUim9jvZgJ9TVeCLoNEBHs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.Caesar">
+    <configuration name="Caesar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../HW4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../HW4/Caesar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HW2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Caesar" />
+        <item itemvalue="Python.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b214a298-6442-426c-afb6-0176d59b1685" name="Default Changelist" comment="" />
+      <created>1587093266141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587093266141</updated>
+      <workItem from="1587093267620" duration="17139000" />
+      <workItem from="1587886171100" duration="162000" />
+      <workItem from="1588256907440" duration="59000" />
+      <workItem from="1589438182746" duration="1776000" />
+      <workItem from="1589538473296" duration="1486000" />
+      <workItem from="1599026422976" duration="1419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="86" key="GridCell.Tab.0.bottom" timestamp="1599044649307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="86" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599044649307" />
+    <state width="1493" height="86" key="GridCell.Tab.0.center" timestamp="1599044649307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="86" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599044649307" />
+    <state width="1493" height="86" key="GridCell.Tab.0.left" timestamp="1599044649307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="86" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599044649307" />
+    <state width="1493" height="86" key="GridCell.Tab.0.right" timestamp="1599044649307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="86" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599044649307" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1599026423759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599026423759" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW2$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1587138684219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW3$Caesar.coverage" NAME="Caesar Coverage Results" MODIFIED="1599026725667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../HW4" />
+    <SUITE FILE_PATH="coverage/HW3$Calculator.coverage" NAME="Calculator Coverage Results" MODIFIED="1599026531743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
